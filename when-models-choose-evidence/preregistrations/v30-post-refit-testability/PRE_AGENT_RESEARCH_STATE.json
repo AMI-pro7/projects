@@ -1,0 +1,27 @@
+{
+  "state": "pre-frontier-agent research state",
+  "date": "2026-10-07",
+  "note": "Committed before any frontier-agent benchmark outcome; no later narrative change should be presented as pre-registered.",
+  "files": {
+    "manuscript/main.tex": "2b5d633e377f9b3cbac16c20717e2c38adf0bd6c8d269dc456901bf58d1dca5f",
+    "manuscript/main.pdf": "35a7c974114a07f755b4677c454a8e04c6125db172c622aa173bf59397044718",
+    "manuscript/supplement.tex": "ced541bb6202b3fe9f2e841b0c53f3a91e249699399001d3e75be52539a26cc9",
+    "manuscript/supplement.pdf": "5fd0f76f3c19e46b2d01763a35c5a719ea7b8af28e5182eb6ca452485fcd7245",
+    "results/repair_holdout_summary.json": "02b6e35b72df9f787fe8573c3fae3f928ada3130f23f7480ada666772f644f0b",
+    "results/repair_holdout_qmc_summary.json": "20f45e4af95170e341ebe09641f2adc122b249b14d8b05d18f50d3a411ab1254",
+    "results/repair_holdout.csv": "41af6a219773272c5acdf7359a192b9c001ad9ecb16ee0d520b79f09da9d33bc",
+    "results/repair_holdout_qmc.csv": "15f184145f44214d35c2ef80f2d330eb9eb881b258a09b0b71fdc1d45df8cbc9",
+    "results/spinwave_case_summary.json": "472f4e1305739285f6f7eb6570912726f1530f6fb8ede93f06ba752ca0a83990",
+    "results/spinwave_all_designs.csv": "ff6996e4af9e0cf4d95ba1a822925bce46710f77577b17e3196ec8ee7302ee36",
+    "results/historical/v01_profile_summary.json": "e6746fdde11e0e5258ab7f59c7a9b44211a8225f31265a995f813e96a95e4468",
+    "results/fresh_holdout_small_summary.json": "834ea74fca37409e9a7c0bb765a28a0f44d010caae8b90e2b1f10e7421c58fc8",
+    "results/profile_greedy_baseline_summary.json": "d822e4ad5c6f0dccc83320c40805bcb3419a112676686ac2a6bd7120e8bc64d6",
+    "results/profile_greedy_baseline.csv": "8e01b4cf141b39ceaae6ea801fecb8135cd74d5130ae5020e07217a91564957c",
+    "figures/fig1_refitting_geometry.pdf": "931e51085e76b623f1a8996316d026b46a4eb06fdfa735e49ed559743af02e88",
+    "figures/fig2_repair_holdout.pdf": "4ba37b94227c19f6fa776fa1863c9135d6f4d965cd1e2cd31ecf9655eff6b770",
+    "figures/fig3_spinwave_digital_twin.pdf": "1df78556364045f92eb1ca3657b0d18e9a8316089de42f88d693453e3564e60b",
+    "figures/fig4_audit_refusal.pdf": "8d5d42d452cc0e839bf8d2ef9b5ac309652e4c08e9c70fbe61062b427678aa8e",
+    "src/test_v03.py": "717c2342f7e81e6b5e0aabce9f382fa9700afb00e5f7bcc1130fd7a692053340",
+    "verify_v03.py": "8b0665c0a8986f2c5c7e4caccb08600b68d36b5635a78c15cb99d8b93c9491b3"
+  }
+}
