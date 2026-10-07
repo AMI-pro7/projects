@@ -1,0 +1,18 @@
+{
+  "benchmark_version": "v0.3-agent-plan-1",
+  "created_utc": "2026-10-07",
+  "primary_tier": "pre-outcome complete-plan selection",
+  "alpha": 0.01,
+  "target_power": 0.95,
+  "task_count": 11,
+  "unprompted_task_sha256": "fe4a4a58fb71432ce891357c09d4bfc8abdaeaf2846480931c3ea7b2677a7826",
+  "declared_task_sha256": "1c8665a05f781c639f040ccd59fa2130db542d5c9624e4967e4a22a6b7fcbb95",
+  "hidden_evaluator_sha256": "3c093b21c7f885a2feb932713a1de9fb61e8c652196d30a32538817b805cef88",
+  "prompt_template_sha256": "bbd2f5bb4bba6843003569df6cf4806060c71b780a7acb3ba9e328db7fc1495f",
+  "evaluator_sha256": "820bf4b1676e5a87cae59155a84c1cf37c61c227dba16bfbd00fabe39873df01",
+  "composite_core_sha256": "f5ab910034982be0d151ceb64cc7961225f4b8f755ee3e275d60574a1e0f959f",
+  "repair_core_sha256": "8980e4d478501caa377fbfa6ab23d6784c9742dbd2bbae8090ad81eb07764221",
+  "protocol_sha256": "31bdfae189a442c0773929f3ecc2d333da0f0e519784b8983c284fc2b87ab003",
+  "model_lock_template_sha256": "a7719272ce0e8679af44a388d53cd6660c4c01e72d2b0673e586660601ada461",
+  "model_inclusion_rule": "Before the first scored call, lock one strongest stable API model from OpenAI, Anthropic and Google plus one open-weight reasoning model if executable. Record exact IDs, dates, temperatures and seeds in MODEL_LOCK.json. Do not change tasks or metrics after MODEL_LOCK."
+}
